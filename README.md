@@ -3,4 +3,6 @@ This is a corona tracker app which shows the corona related statistics for all c
 This app is made using native android development using java as the base coding language.
 This app uses https://corona.lmao.ninja/ API to get the JSON data and shows them appropriately in the application.
 ![About API](img1.JPG)
-![Frame1](img2.jpeg=24x48)
+<img src="img2.jpeg" height="90" width="40">
+
+
